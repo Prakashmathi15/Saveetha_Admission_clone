@@ -98,7 +98,7 @@ Maintain readability and layout integrity on both desktop and mobile.
     </div>
 
 
-        <button type="submit" class="submit-btn">APPLY NOW ▶</button>
+        <button type="submit" class="submit-btn">APPLY NOW </button>
         <p class="login-text">Already have an Account? <a href="#">Login</a> | <a href="#">Resend Verification Email</a></p>
       </form>
     </section>
